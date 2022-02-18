@@ -8,7 +8,7 @@ the face will be recognized and associated with that data. There is also a setti
 to specify what camera the user wishes to use( '0': webcam, or an IP camera address/Link). This gui may be
 developed to integrate third party API's for various industries such as POS systems, customer account recognition, etc.
 
-Distribution of this software is not permitted by the developer, those who distribute may be subject to legal action.
+Distribution of this software is not permitted by the developer.
 However, many libraries used for this project have varying licenses and should be reviewed.
 
 
