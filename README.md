@@ -4,3 +4,13 @@ This project aims to recognize faces and store them on a local database. Each fa
 Author: Anthony Sanchez 
 sanchezanthony244@gmail.com 
 2020 
+
+## System Requirements
+### OS
+This code was developed on Mac OS Catalina.
+### Python 
+3.8.6 
+### MYSQL
+Local MySql Database. Managed with MySql Workbench.
+To run this code the user must create their own mysql database and input the login credentials in the function 'DBconnect' in the file main_window.py
+
