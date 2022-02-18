@@ -14,3 +14,6 @@ This code was developed on Mac OS Catalina.
 Local MySql Database. Managed with MySql Workbench.
 To run this code the user must create their own mysql database and input the login credentials in the function 'DBconnect' in the file main_window.py
 
+### Main file
+main_window.py
+
